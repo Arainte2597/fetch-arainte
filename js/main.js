@@ -54,7 +54,7 @@ const zonaProductos = (arr) => {
 
     html = `
       <div class="cards">
-        <img src="./img/${img}">
+        <img src="${img}">
         <h3>${nombre.toUpperCase()}</h3>
         <p class = "precioProducto">$${precio}</p>
         <button class="boton-agregar">Comprar</button>
