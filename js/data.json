@@ -9,7 +9,7 @@
        "id":2,
        "nombre":"Salentein",
        "precio":1800,
-       "img":"../img/salentein.jpg"
+       "img":"/salentein.jpg"
     },
     {
        "id":3,
