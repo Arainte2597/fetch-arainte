@@ -3,36 +3,36 @@
        "id":1,
        "nombre":"El Enemigo",
        "precio":1200,
-       "img":"./img/enemigo.jpg"
+       "img":"../img/enemigo.jpg"
     },
     {
        "id":2,
        "nombre":"Salentein",
        "precio":1800,
-       "img":"./img/salentein.jpg"
+       "img":"../img/salentein.jpg"
     },
     {
        "id":3,
        "nombre":"Luigi bosca",
        "precio":2800,
-       "img":"./img/luigi-bosca.jpg"
+       "img":"../img/luigi-bosca.jpg"
     },
     {
        "id":4,
        "nombre":"Catena malbec",
        "precio":1500,
-       "img":"./img/catena.jpg"
+       "img":"../img/catena.jpg"
     },
     {
        "id":5,
        "nombre":"Patridge",
        "precio":1200,
-       "img":"./img/partridge.jpg"
+       "img":"../img/partridge.jpg"
     },
     {
        "id":6,
        "nombre":"Catena zapata",
        "precio":1900,
-       "img":"./img/catena-zapata.jpg"
+       "img":"../img/catena-zapata.jpg"
     }
  ]
